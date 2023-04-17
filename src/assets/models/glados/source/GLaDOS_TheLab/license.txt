@@ -1,0 +1,11 @@
+Model Information:
+* title:	G La DOS- Fixed
+* source:	https://sketchfab.com/3d-models/g-la-dos-fixed-409c9def787c47f98ec03c6e69215038
+* author:	LovePortal (https://sketchfab.com/platonkosenko26)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "G La DOS- Fixed" (https://sketchfab.com/3d-models/g-la-dos-fixed-409c9def787c47f98ec03c6e69215038) by LovePortal (https://sketchfab.com/platonkosenko26) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
